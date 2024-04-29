@@ -1,0 +1,31 @@
+.centrar-imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh; /* Opcional: para centrar verticalmente en la página */
+}
+
+.imagen {
+    width: 33.33%; /* Un tercio del ancho de la pantalla */
+    height: auto; /* Esto permite que la imagen se ajuste proporcionalmente */
+}
+
+.letra-titulo {
+    font-family: monospace;
+}
+
+.modal-background1 {
+    background-color: rgb(224,247,250);
+}
+
+.modal-center {
+    text-align: center;
+}
+
+.modal-centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px; /* Ancho del botón */
+    height: 50px; /* Altura del botón */
+}
