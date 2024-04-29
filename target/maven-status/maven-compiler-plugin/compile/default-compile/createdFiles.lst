@@ -1,0 +1,15 @@
+beanDTO\UsuarioDTO.class
+datos\PermisosInterfas.class
+servlets\Marcas.class
+datos\ConexionMySql.class
+datos\UsuarioJDBC.class
+servlets\Usuarios.class
+datos\MarcasJDBC.class
+beanDTO\PermisoDTO.class
+servlets\Login.class
+datos\PermisosJDBC.class
+datos\VariablesGlobales.class
+beanDTO\MarcasDTO.class
+servlets\CerrarSesion.class
+datos\UsuarioInterfas.class
+datos\MarcasInterface.class
