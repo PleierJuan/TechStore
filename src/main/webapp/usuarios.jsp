@@ -22,7 +22,7 @@
                 <p><label><input type="checkbox" class="filled-in darken-1" name="administrarUsuario" id="administrarUsuario" value="1" ><span><b>Administrar usuarios:</b> Módulo para crear, eliminar, actualizar usuarios, incluyendo sus perfiles y privilegios o responsabilidades.</span></label></p>                    
                 <p><label><input type="radio" class="filled-in darken-1" name="inventario" id="administrarInventario" value="2" ><span><b>Administrar inventario y resguardos:</b> Módulo para agregar, eliminar o actualizar los inventarios y resguardos.</span></label></p>
                 <p><label><input type="radio" class="filled-in darken-1" name="inventario" id="consultarInventario" value="3" ><span><b>Consultar inventario y resguardo:</b> Módulo para consultar los inventarios y resguardos, sin modificaciones. </span></label></p>
-                <p><label><input type="checkbox" class="filled-in darken-1" name="administrarCatalogos" id="administrarCatalogos" value="4" ><span><b>Administrar catalogos:</b> Módulo para administrar los catalogos que existen en el sistema.</span></label></p>
+                <p hidden><label><input type="checkbox" class="filled-in darken-1" name="administrarCatalogos" id="administrarCatalogos" value="4" ><span><b>Administrar catalogos:</b> Módulo para administrar los catalogos que existen en el sistema.</span></label></p>
             </div>
             <div class="modal-footer">
                 <button class="btn waves-effect waves-light cyan darken-3" type="submit" name="permisos" id="permisos"
